@@ -1,2 +1,0 @@
-discord.txt
-Pillow
