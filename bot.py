@@ -40,8 +40,8 @@ BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN", "MTUxOTE0NDUzNDkxNzc3OTQ2Ng.GYg-2L.VT
 
 DATA_FILE = "gemcasino_data.json"
 
-OWNER_IDS = set(1365731306037711014)      # fill in Discord user IDs (ints) of owners
-ADMIN_IDS = set(1464973162654597337)      # fill in Discord user IDs (ints) of admins
+OWNER_IDS = (1365731306037711014)      # fill in Discord user IDs (ints) of owners
+ADMIN_IDS = (1464973162654597337)      # fill in Discord user IDs (ints) of admins
 
 PVP_TAX_RATE = 0.06
 GIFT_TAX_RATE = 0.02
